@@ -1,3 +1,0 @@
-SELECT NOW();
-
-SELECT NOW() as DATA_HORA;
