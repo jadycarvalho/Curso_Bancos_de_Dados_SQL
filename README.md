@@ -1,6 +1,6 @@
 ## Curso de Bancos de Dados e SQL
 
-Curso de Banco de Dados e SQL ministrado pelo Felipe Mafra, Analista de Business Intelligence e Cientista de Dados, da plataforma Udemy.
+Curso de Banco de Dados e SQL, da plataforma Udemy, ministrado pelo Felipe Mafra, Analista de Business Intelligence e Cientista de Dados.
 Neste repositório irei compartilhar as atividades que realizarei ao longo do curso.
 
 
